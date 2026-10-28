@@ -1,0 +1,4 @@
+# Dependencias para desarrollar y ejecutar las pruebas en Ubuntu/WSL.
+# Kivy es la interfaz gráfica; pytest ejecuta las pruebas automatizadas.
+kivy==2.3.1
+pytest==8.3.5
